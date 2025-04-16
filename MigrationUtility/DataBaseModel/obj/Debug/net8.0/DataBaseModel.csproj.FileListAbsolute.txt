@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\MigrationUtility\DataBaseModel\bin\Debug\net8.0\DataBaseModel.deps.json
+C:\Users\admin\source\repos\MigrationUtility\DataBaseModel\bin\Debug\net8.0\DataBaseModel.dll
+C:\Users\admin\source\repos\MigrationUtility\DataBaseModel\bin\Debug\net8.0\DataBaseModel.pdb
+C:\Users\admin\source\repos\MigrationUtility\DataBaseModel\obj\Debug\net8.0\DataBaseModel.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\MigrationUtility\DataBaseModel\obj\Debug\net8.0\DataBaseModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\MigrationUtility\DataBaseModel\obj\Debug\net8.0\DataBaseModel.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\MigrationUtility\DataBaseModel\obj\Debug\net8.0\DataBaseModel.AssemblyInfo.cs
+C:\Users\admin\source\repos\MigrationUtility\DataBaseModel\obj\Debug\net8.0\DataBaseModel.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\MigrationUtility\DataBaseModel\obj\Debug\net8.0\DataBaseModel.dll
+C:\Users\admin\source\repos\MigrationUtility\DataBaseModel\obj\Debug\net8.0\refint\DataBaseModel.dll
+C:\Users\admin\source\repos\MigrationUtility\DataBaseModel\obj\Debug\net8.0\DataBaseModel.pdb
+C:\Users\admin\source\repos\MigrationUtility\DataBaseModel\obj\Debug\net8.0\ref\DataBaseModel.dll
+C:\Users\admin\source\repos\MigrationUtility\DataBaseModel\bin\Debug\net8.0\DataBaseModel.dll.config

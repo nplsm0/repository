@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\MigrationUtility\MigrationUtility\bin\Debug\net9.0\MigrationUtility.exe
+C:\Users\admin\source\repos\MigrationUtility\MigrationUtility\bin\Debug\net9.0\MigrationUtility.deps.json
+C:\Users\admin\source\repos\MigrationUtility\MigrationUtility\bin\Debug\net9.0\MigrationUtility.runtimeconfig.json
+C:\Users\admin\source\repos\MigrationUtility\MigrationUtility\bin\Debug\net9.0\MigrationUtility.dll
+C:\Users\admin\source\repos\MigrationUtility\MigrationUtility\bin\Debug\net9.0\MigrationUtility.pdb
+C:\Users\admin\source\repos\MigrationUtility\MigrationUtility\obj\Debug\net9.0\MigrationUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\MigrationUtility\MigrationUtility\obj\Debug\net9.0\MigrationUtility.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\MigrationUtility\MigrationUtility\obj\Debug\net9.0\MigrationUtility.AssemblyInfo.cs
+C:\Users\admin\source\repos\MigrationUtility\MigrationUtility\obj\Debug\net9.0\MigrationUtility.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\MigrationUtility\MigrationUtility\obj\Debug\net9.0\MigrationUtility.dll
+C:\Users\admin\source\repos\MigrationUtility\MigrationUtility\obj\Debug\net9.0\refint\MigrationUtility.dll
+C:\Users\admin\source\repos\MigrationUtility\MigrationUtility\obj\Debug\net9.0\MigrationUtility.pdb
+C:\Users\admin\source\repos\MigrationUtility\MigrationUtility\obj\Debug\net9.0\MigrationUtility.genruntimeconfig.cache
+C:\Users\admin\source\repos\MigrationUtility\MigrationUtility\obj\Debug\net9.0\ref\MigrationUtility.dll
